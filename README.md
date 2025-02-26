@@ -49,13 +49,9 @@ Excited to introduce **DeepEP** - the first open-source EP communication library
 Introducing DeepGEMM - an FP8 GEMM library that supports both dense and MoE GEMMs, powering V3/R1 training and inference.
 
 ⚡ Up to 1350+ FP8 TFLOPS on Hopper GPUs
-
 ✅ No heavy dependency, as clean as a tutorial
-
 ✅ Fully Just-In-Time compiled
-
 ✅ Core logic at ~300 lines - yet outperforms expert-tuned kernels across most matrix sizes
-
 ✅ Supports dense layout and two MoE layouts
 
 🔗 GitHub: https://github.com/deepseek-ai/DeepGEMM

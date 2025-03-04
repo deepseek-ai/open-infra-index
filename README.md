@@ -15,7 +15,7 @@ We're a tiny team @deepseek-ai pushing our limits in AGI exploration.
 Starting **this week** , Feb 24, 2025 we'll open-source 5 repos – one daily drop – not because we've made grand claims, 
 but simply as developers sharing our small-but-sincere progress with full transparency.
 
-These are humble building blocks of our online service: documented, deployed and battle-tested in production. 
+These are humble building blocks of our online service: documented, deployed, and battle-tested in production. 
 No vaporware, just sincere code that moved our tiny yet ambitious dream forward.
 
 Why? Because every line shared becomes collective momentum that accelerates the journey.
@@ -69,33 +69,33 @@ Introducing **DeepGEMM** - an FP8 GEMM library that supports both dense and MoE 
 
 ### Day 5 - 3FS, Thruster for All DeepSeek Data Access
 
-Fire-Flyer File System (3FS) - a parallel file system that utilizes the full bandwidth of modern SSDs and RDMA networks.
+**Fire-Flyer File System (3FS)** - a parallel file system that utilizes the full bandwidth of modern SSDs and RDMA networks.
 
-⚡ 6.6 TiB/s aggregate read throughput in a 180-node cluster     
-⚡ 3.66 TiB/min throughput on GraySort benchmark in a 25-node cluster       
-⚡ 40+ GiB/s peak throughput per client node for KVCache lookup            
-🧬 Disaggregated architecture with strong consistency semantics             
+⚡ 6.6 TiB/s aggregate read throughput in a 180-node cluster  
+⚡ 3.66 TiB/min throughput on GraySort benchmark in a 25-node cluster  
+⚡ 40+ GiB/s peak throughput per client node for KVCache lookup  
+🧬 Disaggregated architecture with strong consistency semantics  
 ✅ Training data preprocessing, dataset loading, checkpoint saving/reloading, embedding vector search & KVCache lookups for inference in V3/R1
 
-📥 3FS → https://github.com/deepseek-ai/3FS                
-⛲ Smallpond - data processing framework on 3FS → https://github.com/deepseek-ai/smallpond
-
+📥 **3FS** → 🔗[**GitHub Repo**](https://github.com/deepseek-ai/3FS)  
+⛲ **Smallpond** - data processing framework on 3FS → 🔗[**GitHub Repo**](https://github.com/deepseek-ai/smallpond)
 
 ### Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview
-Optimized throughput and latency via:            
-🔧 Cross-node EP-powered batch scaling          
-🔄 Computation-communication overlap      
-⚖️ Load balancing         
 
-Production data of V3/R1 online services:         
-⚡ 73.7k/14.8k input/output tokens per second per H800 node          
-🚀 Cost profit margin 545%             
+Optimized throughput and latency via:  
+🔧 Cross-node EP-powered batch scaling  
+🔄 Computation-communication overlap  
+⚖️ Load balancing  
+
+Production data of V3/R1 online services:  
+⚡ **73.7k/14.8k** input/output tokens per second per H800 node  
+🚀 Cost profit margin **545%**  
 
 ![Cost And Theoretical Income.jpg](202502OpenSourceWeek/figures/Cost%20And%20Theoretical%20Income.jpg)
 
 💡 We hope this week's insights offer value to the community and contribute to our shared AGI goals.
 
-📖 Deep Dive: 🔗[Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview](202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)     
+📖 Deep Dive: 🔗[Day 6 - One More Thing: DeepSeek-V3/R1 Inference System Overview](202502OpenSourceWeek/day_6_one_more_thing_deepseekV3R1_inference_system_overview.md)  
 📖 中文版: 🔗[DeepSeek-V3 / R1 推理系统概览](https://zhuanlan.zhihu.com/p/27181462601)
 
 ## 2024 AI Infrastructure Paper (SC24)  

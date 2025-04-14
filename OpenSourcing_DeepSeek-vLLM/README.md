@@ -10,7 +10,7 @@ open-source community.
 
 We are deeply grateful for the open-source ecosystem, without which our progress toward AGI would not be possible.
 Our training framework relies on [PyTorch](https://github.com/pytorch/pytorch), and our inference engine is built
-upon [vLLM](https://github.com/pytorch/pytorch),
+upon [vLLM](https://github.com/vllm-project/vllm), 
 both of which have been instrumental in accelerating the training and deployment of DeepSeek models.
 
 Given the growing demand for deploying models like [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)

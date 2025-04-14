@@ -1,4 +1,4 @@
-# The Path to Open-Sourcing the DeepSeek Inference Engine (DeepSeek-vLLM)
+# The Path to Open-Sourcing the DeepSeek Inference Engine
 
 A few weeks ago,
 during [Open Source Week](https://github.com/deepseek-ai/open-infra-index?tab=readme-ov-file#202502-open-source-week),

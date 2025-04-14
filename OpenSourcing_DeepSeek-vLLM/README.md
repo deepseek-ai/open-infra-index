@@ -24,15 +24,14 @@ While we initially considered open-sourcing our full internal inference engine, 
 - **Limited Maintenance Bandwidth**: As a small research team focused on developing better models, we lack bandwidth to
   maintain a large open-source project.
 
-Considering these challenges, we’ve decided to collaborate with the vLLM project as a more sustainable alternative.
-vLLM stands out for its broad hardware support, extensive model compatibility, and state-of-the-art performance.
-Its modular architecture gives us confidence that we can adapt and contribute key components from our internal engine to
-benefit the wider community.
+Considering these challenges, we’ve decided to collaborate with the SGLang project and vLLM project as more sustainable alternatives.
 
-Moving forward, we will work closely with the vLLM team to:
+SGLang and vLLM stand out for its broad hardware support, extensive model compatibility, and state-of-the-art performance. Its modular architecture gives us confidence that we can adapt and contribute key components from our internal engine to benefit the wider community.
+
+Moving forward, we will work closely with the SGLang team and vLLM team to:
 
 - **Extract Standalone Features**: Modularize and contribute reusable components as independent libraries.
-- **Share Optimizations**: Contribute design improvements and implementation details directly to vLLM.
+- **Share Optimizations**: Contribute design improvements and implementation details directly to SGLang and vLLM.
 
 We are profoundly grateful for the open-source movement - from operating systems and programming languages to machine
 learning frameworks and inference engines. It’s an honor to contribute to this thriving ecosystem and to see our models

@@ -39,8 +39,6 @@ learning frameworks and inference engines. It’s an honor to contribute to this
 and code embraced by the community. Together, let’s push the boundaries of AGI and ensure its benefits serve all of
 humanity.
 
-This page will serve as a central hub for tracking our related open-source efforts on the inference engine.
-
 > [!NOTE]
 > **To clarify, this article outlines our approach to open-sourcing of our DeepSeek-vLLM codebase only.
 > Regarding future model releases, we maintain an open and collaborative stance towards both the open-source community

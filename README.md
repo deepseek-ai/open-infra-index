@@ -9,6 +9,8 @@
 
 # Hello, DeepSeek Open Infra!
 
+## 202504 [The Path to Open-Sourcing the DeepSeek Inference Engine (DeepSeek-vLLM))](OpenSourcing_DeepSeek-vLLM/README.md)
+
 ## 202502 Open-Source Week
 We're a tiny team @deepseek-ai pushing our limits in AGI exploration.
 

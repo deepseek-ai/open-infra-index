@@ -37,7 +37,7 @@ and code embraced by the community. Together, let’s push the boundaries of AGI
 humanity.
 
 > [!NOTE]
-> **To clarify, this article outlines our approach to open-sourcing of our DeepSeek-vLLM codebase only.
+> **To clarify, this article outlines our approach to open-sourcing of our DeepSeek-Inference-Engine codebase only.
 > Regarding future model releases, we maintain an open and collaborative stance towards both the open-source community
 > and hardware partners.
 > We commit to proactively synchronizing inference-related engineering efforts prior to new model launches, with the

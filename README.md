@@ -9,6 +9,10 @@
 
 # Hello, DeepSeek Open Infra!
 
+## 202505 Industry Track Paper (ISCA25)  
+### Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+[**📄 Arxiv Paper Link**](https://arxiv.org/abs/2505.09343)
+
 ## 202504 [The Path to Open-Sourcing the DeepSeek Inference Engine](OpenSourcing_DeepSeek_Inference_Engine/README.md)
 
 ## 202502 Open-Source Week
